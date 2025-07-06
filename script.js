@@ -54,7 +54,17 @@
      "https://www.youtube.com/embed/gxho2v6y4nQ",
      "https://www.youtube.com/embed/8iU8LPEa4o0",
      "https://www.youtube.com/embed/MkNeIUgNPQ8",
-     "https://www.youtube.com/embed/sCbbMZ-q4-I"
+     "https://www.youtube.com/embed/sCbbMZ-q4-I",
+     "https://www.youtube.com/embed/1ZYbU82GVz4",  // Piano tears
+     "https://www.youtube.com/embed/jfKfPfyJRdk",  // Late-night lo-fi
+     "https://www.youtube.com/embed/lTRiuFIWV54",  // Rainy piano
+     "https://www.youtube.com/embed/_eGJgdNnUnY",  // Solo piano
+     "https://www.youtube.com/embed/YykjpeuMNEk",  // Acoustic rain
+     "https://www.youtube.com/embed/gxho2v6y4nQ",  // Melancholic beats
+     "https://www.youtube.com/embed/8iU8LPEa4o0",  // Soft ambient
+     "https://www.youtube.com/embed/MkNeIUgNPQ8",  // Emotional piano
+     "https://www.youtube.com/embed/sCbbMZ-q4-I",  // Calm sorrow
+     "https://www.youtube.com/embed/UFT_7V0QXBU"   // Sad cello  
 ]
 
   },
@@ -84,6 +94,17 @@
      "https://www.youtube.com/embed/XN6kAZ2gBis",
      "https://www.youtube.com/embed/IjMESxJdWkg",
      "https://www.youtube.com/embed/_3ZV4FIEtOQ"
+     "https://www.youtube.com/embed/1ZJ3AC9xr1A",  // Retro nostalgia
+     "https://www.youtube.com/embed/4N3N1MlvVc4",  // 80s vibe
+    "https://www.youtube.com/embed/lTRiuFIWV54",  // Rain + piano (double good fit)
+     "https://www.youtube.com/embed/wWzsyhQW50c",  // Vintage instrumental
+     "https://www.youtube.com/embed/Hl9p5KjTrSI",  // Memory lane track
+     "https://www.youtube.com/embed/cgB3sgTV09w",  // Lo-fi memories
+     "https://www.youtube.com/embed/AUN5w3QK3nU",  // Nostalgic ambient
+     "https://www.youtube.com/embed/XN6kAZ2gBis",  // Old-school chill
+     "https://www.youtube.com/embed/IjMESxJdWkg",  // Cinematic memory
+     "https://www.youtube.com/embed/_3ZV4FIEtOQ"   // Retro emotional
+]
 ]
 
   },
@@ -112,7 +133,17 @@
      "https://www.youtube.com/embed/ScMzIvxBSi4",
      "https://www.youtube.com/embed/qFZKK7K52uQ",
      "https://www.youtube.com/embed/SQFGszcU_G8",
-     "https://www.youtube.com/embed/k6jqx9kZgPM"
+     "https://www.youtube.com/embed/k6jqx9kZgPM",
+     "https://www.youtube.com/embed/2OEL4P1Rz04",  // Lofi calm
+     "https://www.youtube.com/embed/MkNeIUgNPQ8",  // 1‑hour meditation
+     "https://www.youtube.com/embed/xAq2wA4Y-5A",  // Piano & nature
+     "https://www.youtube.com/embed/1ZYbU82GVz4",  // Calm piano (again for variation)
+     "https://www.youtube.com/embed/yYnkwsAehfY",  // Deep relaxation
+     "https://www.youtube.com/embed/BynK0jJu1zA",  // Forest ambient
+     "https://www.youtube.com/embed/ScMzIvxBSi4",  // River sounds + lo-fi
+     "https://www.youtube.com/embed/qFZKK7K52uQ",  // Soft ambient
+     "https://www.youtube.com/embed/SQFGszcU_G8",  // Nature & piano
+     "https://www.youtube.com/embed/k6jqx9kZgPM"   // Serene ambience
 ]
   }
 ];
