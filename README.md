@@ -49,7 +49,7 @@ No installation or login required — just open `index.html` and you're good to 
 
 ## 🌐 Live Demo
 
-**https://github.com/429error/moorverse**
+** https://429error.github.io/moorverse/**
 
 ---
 
