@@ -15,7 +15,6 @@
     ],
     songs: [
      "https://www.youtube.com/embed/e20EFLNwHuQ",  
-     "https://www.youtube.com/embed/6NhJMhbFTNcy",  
      "https://www.youtube.com/embed/2OEL4P1Rz04",  // Lofi happy beats
      "https://www.youtube.com/embed/DWcJFNfaw9c",
      "https://www.youtube.com/embed/CaVnYhhTYsE",
