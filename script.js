@@ -102,8 +102,6 @@
      "https://www.youtube.com/embed/IjMESxJdWkg",  // Cinematic memory
      "https://www.youtube.com/embed/_3ZV4FIEtOQ"   // Retro emotional
 ]
-]
-
   },
   {
     mood: "Calm",
@@ -163,7 +161,8 @@ function showRandomMoodContent(moodObj) {
   outputDiv.innerHTML = `
     <p class="quote">"${randomQuote}"</p>
     <div class="video-wrapper">
-      <iframe src="${randomSong}" ...></iframe>
+      <iframe width="560" height="315" src="${randomSong}" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   `;
 }
