@@ -51,7 +51,7 @@
      "https://www.youtube.com/embed/gxho2v6y4nQ",
      "https://www.youtube.com/embed/8iU8LPEa4o0",
      "https://www.youtube.com/embed/MkNeIUgNPQ8",
-     "https://www.youtube.com/embed/sCbbMZ-q4-I",
+     "https://www.youtube.com/embed/sCbbMZ-q4-I"
      //"https://www.youtube.com/embed/1ZYbU82GVz4",  // Piano tears
    //  "https://www.youtube.com/embed/jfKfPfyJRdk",  // Late-night lo-fi
      //"https://www.youtube.com/embed/lTRiuFIWV54",  // Rainy piano
