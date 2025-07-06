@@ -27,7 +27,7 @@
      "https://www.youtube.com/embed/JQbjS0_ZfJ0",  // "All the Stars" — Kendrick Lamar & SZA :contentReference[oaicite:5]{index=5}
      "https://www.youtube.com/embed/GfCqMv--ncA",  // Alt uploader version of "All the Stars" :contentReference[oaicite:6]{index=6}
      "https://www.youtube.com/embed/mI4peiLWF0g",  // All The Stars Remix (feat. The Weeknd) :contentReference[oaicite:7]{index=7}
-     "https://www.youtube.com/embed/Mewp4cjrR0s",  
+     "https://www.youtube.com/embed/Mewp4cjrR0s"  
 ]
 
   },
