@@ -14,16 +14,20 @@
       "Happiness is letting go of what you think life should look like."
     ],
     songs: [
-     "https://www.youtube.com/embed/5qap5aO4i9A",
-     "https://www.youtube.com/embed/2OEL4P1Rz04",
-     "https://www.youtube.com/embed/DWcJFNfaw9c",
-     "https://www.youtube.com/embed/g1MzzU5vHP0",
+     "https://www.youtube.com/embed/e20EFLNwHuQ",  
+     "https://www.youtube.com/embed/6NhJMhbFTNcy",  
+     "https://www.youtube.com/embed/2OEL4P1Rz04",  // Lofi happy beats
+     "https://www.youtube.com/embed/DWcJFNfaw9c"
      "https://www.youtube.com/embed/CaVnYhhTYsE",
      "https://www.youtube.com/embed/DWcJFNfaw9c",
      "https://www.youtube.com/embed/kXYiU_JCYtU",  // light happy acoustic
      "https://www.youtube.com/embed/jfKfPfyJRdk",  // 24/7 chill lofi
      "https://www.youtube.com/embed/PUUivXgJ2S0",
-     "https://www.youtube.com/embed/cWzbxKkmm0Q"
+     "https://www.youtube.com/embed/cWzbxKkmm0Q",
+     "https://www.youtube.com/embed/JQbjS0_ZfJ0",  // "All the Stars" — Kendrick Lamar & SZA :contentReference[oaicite:5]{index=5}
+     "https://www.youtube.com/embed/GfCqMv--ncA",  // Alt uploader version of "All the Stars" :contentReference[oaicite:6]{index=6}
+     "https://www.youtube.com/embed/mI4peiLWF0g",  // All The Stars Remix (feat. The Weeknd) :contentReference[oaicite:7]{index=7}
+     "https://www.youtube.com/embed/Mewp4cjrR0s",  
 ]
 
   },
