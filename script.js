@@ -18,11 +18,8 @@
      "https://www.youtube.com/embed/2OEL4P1Rz04",  // Lofi happy beats
      "https://www.youtube.com/embed/DWcJFNfaw9c",
      "https://www.youtube.com/embed/CaVnYhhTYsE",
-     "https://www.youtube.com/embed/DWcJFNfaw9c",
      "https://www.youtube.com/embed/kXYiU_JCYtU",  // light happy acoustic
      "https://www.youtube.com/embed/jfKfPfyJRdk",  // 24/7 chill lofi
-     "https://www.youtube.com/embed/PUUivXgJ2S0",
-     "https://www.youtube.com/embed/cWzbxKkmm0Q",
      "https://www.youtube.com/embed/JQbjS0_ZfJ0",  // "All the Stars" — Kendrick Lamar & SZA :contentReference[oaicite:5]{index=5}
      "https://www.youtube.com/embed/GfCqMv--ncA",  // Alt uploader version of "All the Stars" :contentReference[oaicite:6]{index=6}
      "https://www.youtube.com/embed/mI4peiLWF0g",  // All The Stars Remix (feat. The Weeknd) :contentReference[oaicite:7]{index=7}
@@ -55,16 +52,16 @@
      "https://www.youtube.com/embed/8iU8LPEa4o0",
      "https://www.youtube.com/embed/MkNeIUgNPQ8",
      "https://www.youtube.com/embed/sCbbMZ-q4-I",
-     "https://www.youtube.com/embed/1ZYbU82GVz4",  // Piano tears
-     "https://www.youtube.com/embed/jfKfPfyJRdk",  // Late-night lo-fi
-     "https://www.youtube.com/embed/lTRiuFIWV54",  // Rainy piano
-     "https://www.youtube.com/embed/_eGJgdNnUnY",  // Solo piano
-     "https://www.youtube.com/embed/YykjpeuMNEk",  // Acoustic rain
-     "https://www.youtube.com/embed/gxho2v6y4nQ",  // Melancholic beats
-     "https://www.youtube.com/embed/8iU8LPEa4o0",  // Soft ambient
-     "https://www.youtube.com/embed/MkNeIUgNPQ8",  // Emotional piano
-     "https://www.youtube.com/embed/sCbbMZ-q4-I",  // Calm sorrow
-     "https://www.youtube.com/embed/UFT_7V0QXBU"   // Sad cello  
+     //"https://www.youtube.com/embed/1ZYbU82GVz4",  // Piano tears
+   //  "https://www.youtube.com/embed/jfKfPfyJRdk",  // Late-night lo-fi
+     //"https://www.youtube.com/embed/lTRiuFIWV54",  // Rainy piano
+     //"https://www.youtube.com/embed/_eGJgdNnUnY",  // Solo piano
+    // "https://www.youtube.com/embed/YykjpeuMNEk",  // Acoustic rain
+   //  "https://www.youtube.com/embed/gxho2v6y4nQ",  // Melancholic beats
+   //  "https://www.youtube.com/embed/8iU8LPEa4o0",  // Soft ambient
+    // "https://www.youtube.com/embed/MkNeIUgNPQ8",  // Emotional piano
+   //  "https://www.youtube.com/embed/sCbbMZ-q4-I",  // Calm sorrow
+   //  "https://www.youtube.com/embed/UFT_7V0QXBU"   // Sad cello  
 ]
 
   },
@@ -84,19 +81,19 @@
 ]
 ,
     songs: [
-     "https://www.youtube.com/embed/1ZJ3AC9xr1A",
-     "https://www.youtube.com/embed/4N3N1MlvVc4",
-     "https://www.youtube.com/embed/lTRiuFIWV54",
-     "https://www.youtube.com/embed/wWzsyhQW50c",
-     "https://www.youtube.com/embed/Hl9p5KjTrSI",
-     "https://www.youtube.com/embed/cgB3sgTV09w",
-     "https://www.youtube.com/embed/AUN5w3QK3nU",
-     "https://www.youtube.com/embed/XN6kAZ2gBis",
-     "https://www.youtube.com/embed/IjMESxJdWkg",
-     "https://www.youtube.com/embed/_3ZV4FIEtOQ"
+     //"https://www.youtube.com/embed/1ZJ3AC9xr1A",
+   //  "https://www.youtube.com/embed/4N3N1MlvVc4",
+    // "https://www.youtube.com/embed/lTRiuFIWV54",
+    // "https://www.youtube.com/embed/wWzsyhQW50c",
+   //  "https://www.youtube.com/embed/Hl9p5KjTrSI",
+    // "https://www.youtube.com/embed/cgB3sgTV09w",
+   //  "https://www.youtube.com/embed/AUN5w3QK3nU",
+     //"https://www.youtube.com/embed/XN6kAZ2gBis",
+    // "https://www.youtube.com/embed/IjMESxJdWkg",
+   //  "https://www.youtube.com/embed/_3ZV4FIEtOQ"
      "https://www.youtube.com/embed/1ZJ3AC9xr1A",  // Retro nostalgia
      "https://www.youtube.com/embed/4N3N1MlvVc4",  // 80s vibe
-    "https://www.youtube.com/embed/lTRiuFIWV54",  // Rain + piano (double good fit)
+     "https://www.youtube.com/embed/lTRiuFIWV54",  // Rain + piano (double good fit)
      "https://www.youtube.com/embed/wWzsyhQW50c",  // Vintage instrumental
      "https://www.youtube.com/embed/Hl9p5KjTrSI",  // Memory lane track
      "https://www.youtube.com/embed/cgB3sgTV09w",  // Lo-fi memories
@@ -124,16 +121,16 @@
 ]
 ,
     songs: [
-     "https://www.youtube.com/embed/2OEL4P1Rz04",
-     "https://www.youtube.com/embed/MkNeIUgNPQ8",
-     "https://www.youtube.com/embed/xAq2wA4Y-5A",
-     "https://www.youtube.com/embed/1ZYbU82GVz4",
-     "https://www.youtube.com/embed/yYnkwsAehfY",
-     "https://www.youtube.com/embed/BynK0jJu1zA",
-     "https://www.youtube.com/embed/ScMzIvxBSi4",
-     "https://www.youtube.com/embed/qFZKK7K52uQ",
-     "https://www.youtube.com/embed/SQFGszcU_G8",
-     "https://www.youtube.com/embed/k6jqx9kZgPM",
+    // "https://www.youtube.com/embed/2OEL4P1Rz04",
+    // "https://www.youtube.com/embed/MkNeIUgNPQ8",
+    // "https://www.youtube.com/embed/xAq2wA4Y-5A",
+    // "https://www.youtube.com/embed/1ZYbU82GVz4",
+   //  "https://www.youtube.com/embed/yYnkwsAehfY",
+  //   "https://www.youtube.com/embed/BynK0jJu1zA",
+     //"https://www.youtube.com/embed/ScMzIvxBSi4",
+//     "https://www.youtube.com/embed/qFZKK7K52uQ",
+   //  "https://www.youtube.com/embed/SQFGszcU_G8",
+  //   "https://www.youtube.com/embed/k6jqx9kZgPM",
      "https://www.youtube.com/embed/2OEL4P1Rz04",  // Lofi calm
      "https://www.youtube.com/embed/MkNeIUgNPQ8",  // 1‑hour meditation
      "https://www.youtube.com/embed/xAq2wA4Y-5A",  // Piano & nature
